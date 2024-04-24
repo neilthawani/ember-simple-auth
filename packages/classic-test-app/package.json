@@ -50,7 +50,7 @@
     "eslint-plugin-ember": "^8.1.1",
     "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-qunit": "^6.2.0",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "glob": "^7.1.6",
     "handlebars": "~4.7.1",
     "loader.js": "^4.7.0",
